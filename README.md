@@ -7,7 +7,13 @@ This tutorial is created to illustrate the basic CRUD (Create , Read, Update, De
 - Run Compser Update
 - Edit the .env file with relevant database credentials.
 - Run 'php artisan migrate'
-- Run 'php artisan db:seed --class=StockTableSeeder'
+- Run 'php artisan db:seed
 - Run php artisan serve
+
+
+init account
+
+username admin
+password admin
 
 Link to the tutorial : https://bishrulhaq.com/laravel/crud-in-laravel-8/
